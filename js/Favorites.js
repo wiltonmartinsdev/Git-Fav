@@ -85,7 +85,7 @@ export class FavoritesView extends Favorites {
 
             row.querySelector(
                 ".user a"
-            ).href = `https://github.com/${user.name}`;
+            ).href = `https://github.com/${user.login}`;
 
             row.querySelector(".user p").textContent = user.name;
 
