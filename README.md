@@ -38,5 +38,5 @@
 
 - Nesse projeto reforcei e aprendi sobre **Conceitos de SPA**, **Criação, Manipulação de Tabelas no HTML5 e sua estilização no CSS3**, **JavaScript Assíncrono**, **Async Await**, **Promises**, **Manipulação do localStorage**, **Orientação a Objetos**, **Classes** e **Tratamento de erros usando Try, Throw e Catch**.
 - Tive dificuldades para entender a lógica do sistema como um todo, muitas dificuldades para estilizar o scrollbar da tabela para aparecer especificamente no tbody, tanto para usar no navegador chrome quanto no firefox.
-- Demorei pra entender como podemos fazer a desestruturação do dados vindo da API do GitHub onde iremos usar somente os dados específicos que queremos.
+- Demorei para entender como podemos fazer a desestruturação dos dados vindo da API do GitHub onde iremos usar somente os dados específicos que queremos.
 - Mas praticando, pesquisando muito em outras fontes como no próprio fórum do explorer, google, stackoverflow, mdn web docs e revendo as aulas e realizando este projeto consegui entender a lógica e os conceitos aplicados no projeto.
