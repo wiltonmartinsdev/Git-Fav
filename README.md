@@ -5,13 +5,8 @@
 - Iremos utilizar o conceito de SPA onde iremos criar somente o Front-End através do HTML5, CSS3, JavaScript e iremos usar como nosso Back-End o GitHub onde através de uma requisição iremos nos comunicar com sua API pública (a qual é uma maneira de nos comunicarmos entre aplicações, por exemplo, front e back) trazendo o usuário pesquisado. E através dos dados vindo da API iremos renderizar nossa tabela dinamicamente pelo JavaScript.
 
 
-
-
-
-
 ## Demonstração
-
-
+<img src="https://github.com/wiltonmartinsdev/Git-Fav/blob/main/assets/gitfav.gif"/>
 
 
 ## Funcionalidades
@@ -22,13 +17,9 @@
 - Se ainda não estiver nenhum usuário adicionado ou se removermos todos os usuários irá ter como background da tabela uma logo e uma frase informando que não tem nenhum favorito ainda. 
 
 
-
-
 ## Stacks Utilizada
 
 **Front-end:** HTML5, CSS3, JavaScript
-
-
 
 
 ## Licença
@@ -41,7 +32,6 @@
 - Conforme com o que foi proposto para desenvolver o projeto o mesmo encontra-se finalizado, mas podendo ser implementada novas funcionalidades.
 
 
-
 ## Aprendizados
 
 - A cada novo projeto proposto no [Explorer](https://www.rocketseat.com.br/explorer) sempre há novos aprendizados, focados em nos levar a pensar fora da caixa e com isso sempre aprimorando cada vez mais o conhecimento adquerido no programa.  
@@ -50,5 +40,3 @@
 - Tive dificuldades para entender a lógica do sistema como um todo, muitas dificuldades para estilizar o scrollbar da tabela para aparecer especificamente no tbody, tanto para usar no navegador chrome quanto no firefox.
 - Demorei pra entender como podemos fazer a desestruturação do dados vindo da API do GitHub onde iremos usar somente os dados específicos que queremos.
 - Mas praticando, pesquisando muito em outras fontes como no próprio fórum do explorer, google, stackoverflow, mdn web docs e revendo as aulas e realizando este projeto consegui entender a lógica e os conceitos aplicados no projeto.
-
-
