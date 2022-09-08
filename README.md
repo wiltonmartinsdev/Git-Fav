@@ -3,6 +3,7 @@
 
 - Essa aplicação consiste em pesquisar por um usuário no GitHub e adicioná-lo como usuário favorito.
 - Iremos utilizar o conceito de SPA onde iremos criar somente o Front-End através do HTML5, CSS3, JavaScript e iremos usar como nosso Back-End o GitHub onde através de uma requisição iremos nos comunicar com sua API pública (a qual é uma maneira de nos comunicarmos entre aplicações, por exemplo, front e back) trazendo o usuário pesquisado. E através dos dados vindo da API iremos renderizar nossa tabela dinamicamente pelo JavaScript.
+- Projeto proposto pelo programa de formação [Explorer](https://www.rocketseat.com.br/explorer) da [RocketSeat](https://www.rocketseat.com.br/).
 
 
 ## Demonstração
