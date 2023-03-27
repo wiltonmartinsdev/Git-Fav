@@ -30,7 +30,7 @@
 
 ## Status do Projeto
 
-- Conforme com o que foi proposto para desenvolver o projeto o mesmo encontra-se finalizado, mas podendo ser implementada novas funcionalidades.
+- Conforme com o que foi proposto para desenvolver o projeto ele encontra-se finalizado, mas podendo ser implementada novas funcionalidades.
 
 
 ## Aprendizados
