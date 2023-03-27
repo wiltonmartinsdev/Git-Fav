@@ -35,7 +35,7 @@
 
 ## Aprendizados
 
-- A cada novo projeto proposto no [Explorer](https://www.rocketseat.com.br/explorer) sempre há novos aprendizados, focados em nos levar a pensar fora da caixa e com isso sempre aprimorando cada vez mais o conhecimento adquerido no programa.  
+- A cada novo projeto proposto no [Explorer](https://www.rocketseat.com.br/explorer) sempre há novos aprendizados, focados em nos levar a pensar fora da caixa e com isso sempre aprimorando cada vez mais o conhecimento adquirido no programa.  
 
 - Nesse projeto reforcei e aprendi sobre **Conceitos de SPA**, **Criação, Manipulação de Tabelas no HTML5 e sua estilização no CSS3**, **JavaScript Assíncrono**, **Async Await**, **Promises**, **Manipulação do localStorage**, **Orientação a Objetos**, **Classes** e **Tratamento de erros usando Try, Throw e Catch**.
 - Tive dificuldades para entender a lógica do sistema como um todo, muitas dificuldades para estilizar o scrollbar da tabela para aparecer especificamente no tbody, tanto para usar no navegador chrome quanto no firefox.
